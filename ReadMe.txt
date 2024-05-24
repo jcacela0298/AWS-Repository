@@ -61,7 +61,7 @@ This will download the necessary Terraform files into the directory. Then, run t
 
 	terraform plan
 
-This should show that 11 actions are to be added. Then, enter the following command to deploy the changes
+This should show that 11 actions are to be added. Then, enter the following command to deploy the changes:
 	terraform apply
 
 
